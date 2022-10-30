@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center">
+      <img src="https://i.ibb.co/Scx2MRR/Header-Man-With-The-Bag-02.png">
+     
+</p>
 
-<!--
-**ManWithTheBag/ManWithTheBag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+I'm a beginner unity developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+![Unity](https://img.shields.io/badge/Unity-090909?style=for-the-badge&logo=Unity)
+![.Net](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=CSharp&logoColor=8A34D9)
+
+
+### Follow my
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0077B7)](https://www.linkedin.com/in/serhii-podoliak-8455b7254/)
