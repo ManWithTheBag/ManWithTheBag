@@ -15,5 +15,5 @@ I'm a beginner unity developer
 ### Follow my
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0077B7)](https://www.linkedin.com/in/serhii-podoliak-8455b7254/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manwiththebag&show_icons=true&theme=tokyonight&count_private=true
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manwiththebag&show_icons=true&theme=tokyonight&count_private=true&hide=stars,contribs
 )](https://github.com/anuraghazra/github-readme-stats)
