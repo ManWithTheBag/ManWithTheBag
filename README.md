@@ -20,3 +20,5 @@ https://user-images.githubusercontent.com/107812569/198897418-0071b392-e0a1-483f
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manwiththebag&show_icons=true&theme=tokyonight&count_private=true&hide=stars,contribs
 )](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manwiththebag&layout=compact&langs_count=4&hide=GLSL,GAP,C++,Mathematica,HLSL,ShaderLab,Objective-C++,Objective-C,csharp)](https://github.com/anuraghazra/github-readme-stats)
